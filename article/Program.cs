@@ -1,4 +1,6 @@
-﻿using System;
+﻿//soal ::::: https://gist.github.com/mul14/af01c604fe3ba809187e4267e7f3afd4
+
+using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.IO;
@@ -32,6 +34,8 @@ namespace article
                     if(user.articles.Count > 0)
                         Console.WriteLine(user.Profile.full_name);
                 }
+
+
 
 
             }
