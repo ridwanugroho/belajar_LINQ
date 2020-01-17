@@ -35,6 +35,14 @@ namespace article
                         Console.WriteLine(user.Profile.full_name);
                 }
 
+                Console.WriteLine();
+                Console.WriteLine("==========================================");
+                Console.WriteLine("Users who does not have \"annis\": ");
+                foreach (var user in items)
+                {
+                    if(user.Profile.full_name.Contains("Annis"))
+                        Console.WriteLine(user.Profile.full_name);
+                }
 
 
 
