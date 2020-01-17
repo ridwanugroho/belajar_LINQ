@@ -1,0 +1,13 @@
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\obj\Debug\netcoreapp3.0\article.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\obj\Debug\netcoreapp3.0\article.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\obj\Debug\netcoreapp3.0\article.AssemblyInfo.cs
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\article.exe
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\article.deps.json
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\article.runtimeconfig.json
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\article.runtimeconfig.dev.json
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\article.dll
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\article.pdb
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\obj\Debug\netcoreapp3.0\article.csproj.CopyComplete
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\obj\Debug\netcoreapp3.0\article.dll
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\article\obj\Debug\netcoreapp3.0\article.pdb
