@@ -12,6 +12,11 @@ namespace JsonParser
         public DateTime Birthday{get; set;}
         [JsonPropertyName("phones")]
         public string[] Phones{get; set;}
+
+        public int GetBornYear()
+        {
+            return Birthday.Year;
+        }
     }
 
     public class Articles
@@ -22,6 +27,11 @@ namespace JsonParser
         public string Title{get; set;}
         [JsonPropertyName("published_at")]
         public DateTime published_at{get; set;}
+
+        public int GetArticleYear()
+        {
+            return Convert.ToInt32(published_at.Year);
+        }
     }
 
     public class User
