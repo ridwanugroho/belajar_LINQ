@@ -1,0 +1,13 @@
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\obj\Debug\netcoreapp3.0\prc.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\obj\Debug\netcoreapp3.0\prc.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\obj\Debug\netcoreapp3.0\prc.AssemblyInfo.cs
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\prc.exe
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\prc.deps.json
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\prc.runtimeconfig.json
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\prc.runtimeconfig.dev.json
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\prc.dll
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\prc.pdb
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\obj\Debug\netcoreapp3.0\prc.csproj.CopyComplete
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\obj\Debug\netcoreapp3.0\prc.dll
+D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\prc\obj\Debug\netcoreapp3.0\prc.pdb
