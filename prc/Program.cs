@@ -10,10 +10,11 @@ namespace prc
         {
             StreamReader r = new StreamReader("prc.json");
             string json = r.ReadToEnd();
-            Purchase purchase = new Purchase(json);
+            LPurchase purchase = new LPurchase(json);
 
             separator("order made in february : ");
-            purchase.prcMade("februari");
+            foreach(var item in purchase.prcMade("februari"))
+                Console.WriteLine("{0} : {1}", item[0], item[1]);
 
             separator("All purchases made by Ari, and the grand total :");
             Console.WriteLine("Rp {0}", purchase.prcMadeBy("ari"));

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\inv\\inv.csproj": {}
+    "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\inv\\inv.csproj": {}
   },
   "projects": {
-    "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\inv\\inv.csproj": {
+    "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\inv\\inv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\inv\\inv.csproj",
+        "projectUniqueName": "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\inv\\inv.csproj",
         "projectName": "inv",
-        "projectPath": "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\inv\\inv.csproj",
+        "projectPath": "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\inv\\inv.csproj",
         "packagesPath": "D:\\Users\\bsi50131\\.nuget\\packages\\",
-        "outputPath": "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\inv\\obj\\",
+        "outputPath": "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\inv\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\bsi50131\\AppData\\Roaming\\NuGet\\NuGet.Config"

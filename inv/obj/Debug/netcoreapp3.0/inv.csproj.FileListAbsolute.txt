@@ -11,3 +11,16 @@ D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\N
 D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.csproj.CopyComplete
 D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.dll
 D:\Prog\CSharp\training\8_jumat_17_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.pdb
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\inv.exe
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\inv.deps.json
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\inv.runtimeconfig.json
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\inv.runtimeconfig.dev.json
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\inv.dll
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\inv.pdb
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.csprojAssemblyReference.cache
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.AssemblyInfoInputs.cache
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.AssemblyInfo.cs
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.csproj.CopyComplete
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.dll
+D:\Prog\CSharp\training\10_selasa_21_jan_20\tes_json\inv\obj\Debug\netcoreapp3.0\inv.pdb

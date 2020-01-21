@@ -10,7 +10,7 @@ namespace inv
         {
             StreamReader r = new StreamReader("inv.json");
             string json = r.ReadToEnd();
-            InventoryController inv = new InventoryController(json);
+            LInventoryController inv = new LInventoryController(json);
 
             separator("item in Sngkuriang room");
             Console.WriteLine("total item : {0}", inv.ItemInRoom("Sangkuriang"));
