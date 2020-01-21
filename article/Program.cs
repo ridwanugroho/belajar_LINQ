@@ -12,7 +12,7 @@ namespace article
         {
             StreamReader r = new StreamReader("data.json");
             string json = r.ReadToEnd();
-            Article article = new Article(json);
+            LArticle article = new LArticle(json);
             
             separator("Users who does not have phone number : ");
             foreach (var user in article.DontHvPhone())
@@ -26,8 +26,8 @@ namespace article
             foreach (var user in article.FindName("annis"))
                 Console.WriteLine(user);
 
-            separator("Users who have article on 2020");
-            foreach (var user in article.AuthorArticleOn(2020))
+            separator("Users who have article on 2019");
+            foreach (var user in article.AuthorArticleOn(2019))
                 Console.WriteLine(user);
             
             separator("Users who are born on 1986");

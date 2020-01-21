@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\article\\article.csproj": {}
+    "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\article\\article.csproj": {}
   },
   "projects": {
-    "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\article\\article.csproj": {
+    "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\article\\article.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\article\\article.csproj",
+        "projectUniqueName": "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\article\\article.csproj",
         "projectName": "article",
-        "projectPath": "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\article\\article.csproj",
+        "projectPath": "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\article\\article.csproj",
         "packagesPath": "D:\\Users\\bsi50131\\.nuget\\packages\\",
-        "outputPath": "D:\\Prog\\CSharp\\training\\8_jumat_17_jan_20\\tes_json\\article\\obj\\",
+        "outputPath": "D:\\Prog\\CSharp\\training\\10_selasa_21_jan_20\\tes_json\\article\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\bsi50131\\AppData\\Roaming\\NuGet\\NuGet.Config"
